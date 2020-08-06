@@ -29,12 +29,12 @@ This is an unopinionated, basic environment that should be ready to expand upon 
 
 The following extensions are installed for .NET Core development.
 
-* [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions): quickly create, debug, manage, and deploy serverless apps directly from VS Code.
+* [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack): Get web site hosting, SQL and MongoDB data, Docker Containers, Serverless Functions and more, all on Azure, all from VS Code, in this one extension from Microsoft.
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp): Included for C# development.
 * [C# Extensions](https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions): Included to speed up development workflows.
 * [C# Sort Usings](https://marketplace.visualstudio.com/items?itemName=jongrant.csharpsortusings): Included for document formatting.
 * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment): Included for XML style C# code documentation.
-* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker): Included for .NET Core developers who work with Docker, but also to enable users to edit `.devcontainer/Dockerfile` with proper editing.
+* [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack): Collection of extensions to assist with content development for [docs.microsoft.com](https://docs.microsoft.com/?WT.mc_id=codespacesexamples-github-juyoo).
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): Included for .NET Core code formatting found in `.editorconfig`.
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and perform Git actions from the graph.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory): View git log, file history, compare branches or commits
